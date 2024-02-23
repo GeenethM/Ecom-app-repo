@@ -1,6 +1,6 @@
 #Finaly starting ecommmers web app
 beautiful interactive UI
-admin page
+admin page (upload and get images & videos)
 user page
 add to cart fuctionality
 SSO mfa
